@@ -5,8 +5,8 @@ A wrapper for Vimeo's [Froogaloop](https://developer.vimeo.com/player/js-api) AP
 ##Dependencies
 
 - [jQuery](http://jquery.com/)
-- [Froogaloop](https://github.com/vimeo/player-api/tree/master/javascript)
-- [MediaElement.js](https://github.com/johndyer/mediaelement)
+- [Froogaloop](https://github.com/vimeo/player-api/tree/master/javascript) 	(if you're using the Vimeo player)
+- [MediaElement.js](https://github.com/johndyer/mediaelement)	(if you're using raw files)
 
 ##Usage
 

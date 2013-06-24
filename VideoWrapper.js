@@ -1,3 +1,9 @@
+/*
+	A wrapper for Vimeo's API and MediaElement JS that provides a consistent (although minimal) API across both.
+	License: WTFPL (http://www.wtfpl.net/)
+*/
+
+
 (function( $, $f ){
 	
 	var VID_COUNT = 0; //track how many videos we have - allow us to assign a unigue id.
